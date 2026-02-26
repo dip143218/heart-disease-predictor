@@ -133,13 +133,7 @@ if st.session_state.page == "home":
             display:inline-block;margin-bottom:1.8rem;
         ">AI Health Platform &nbsp;·&nbsp; Made by Morsalin Hossain Dip</div>
 
-        <h1 style="
-            font-family:'Playfair Display',serif;
-            font-size:clamp(2.8rem,6vw,5.5rem);font-weight:900;line-height:1.05;
-            background:linear-gradient(135deg,#f0ece4 20%,#f472b6 50%,#a78bfa 75%,#60a5fa 100%);
-            -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
-            margin-bottom:1.2rem;
-        ">Know Your Heart.<br>Know Your Body.</h1>
+        
     </div>
     """, unsafe_allow_html=True)
 
