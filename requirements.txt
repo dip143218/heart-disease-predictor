@@ -2,3 +2,5 @@ streamlit
 joblib
 scikit-learn
 numpy
+plotly
+fpdf2
