@@ -2,5 +2,5 @@ streamlit
 joblib
 scikit-learn
 numpy
-plotly
+plotly==5.18.0
 fpdf2
